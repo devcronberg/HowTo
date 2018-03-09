@@ -1,3 +1,3 @@
 # HowTo
 
-* [clonerepository.md](Clone repository]
+* [/clonerepository.md](Clone repository]
