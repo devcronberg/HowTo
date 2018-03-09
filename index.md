@@ -1,1 +1,3 @@
-# Test
+# HowTo
+
+* [clonerepository.md](Clone repository]
